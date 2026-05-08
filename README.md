@@ -83,15 +83,27 @@ docs/
 
 ## Screenshots
 
-![Appointment-Dashboard](screenshots/appointments-dashboard.png)
+### Appointments Dashboard
 
-![Patient-Dashboard](screenshots/patients-dashboard.png)
+![Appointments Dashboard](screenshots/appointments-dashboard.png)
 
-![Doctor-Dashboard](screenshots/doctors-dashboard.png)
+---
 
-![Doctor-Status-Cards](screenshots/doctor-status-cards.png)
+### Patients Dashboard
 
-![Appointment-Status-Cards](screenshots/appointment-status-cards.png)
+![Patients Dashboard](screenshots/patients-dashboard.png)
+
+---
+
+### Doctors Dashboard
+
+![Doctors Dashboard](screenshots/doctors-dashboard.png)
+
+---
+
+### Appointment Status Workflow
+
+![Appointment Status Workflow](screenshots/appointment-status-cards.png)
 
 ---
 
